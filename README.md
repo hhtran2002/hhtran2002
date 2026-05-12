@@ -1,6 +1,6 @@
 # Xin chào
 
-Sinh viên ngành Hệ Thống Thông Tin, yêu thích lĩnh vực Software Testing.
+Mình là sinh viên ngành Hệ Thống Thông Tin, yêu thích lĩnh vực Software Testing.
 
 ## Kỹ năng
 - Manual Testing
