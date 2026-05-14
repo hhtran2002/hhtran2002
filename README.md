@@ -1,25 +1,30 @@
-# Xin chào
+# Hi there 👋
 
-Mình là sinh viên ngành Hệ Thống Thông Tin, yêu thích lĩnh vực Software Testing.
+I’m an Information Systems student pursuing a career as a Full Stack Developer. I have experience building web applications from frontend and backend development to database design and management.
 
-## Kỹ năng
-- Manual Testing
-- Viết Test Case & Bug Report
-- API Testing với Postman
-- SQL Database Testing
-- Git & GitHub cơ bản
+## Skills
+- Frontend: ReactJS, HTML, CSS, JavaScript
+- Backend: NodeJS / ExpressJS
+- Database Design: MySQL / SQL Server
+- RESTful API Development
+- Basic Git & GitHub
 
-## Mục tiêu
-Hiện đang tìm kiếm cơ hội thực tập vị trí Tester Intern để học hỏi, phát triển kỹ năng testing và tham gia vào các dự án thực tế.
+## Experience
+- Designing and managing databases for web applications
+- Building backend APIs using NodeJS
+- Developing user interfaces and integrating frontend with backend
+- Testing and running applications in local environments
+- Learning application deployment with Docker
 
-## Công cụ đã sử dụng
+## Tools & Technologies
+- NodeJS 
+- ExpressJS
+- MySQL / SQL Server 
+- GitHub 
 - Postman
-- MySQL
-- GitHub
-- Jira
-- Excel / Google Sheets
+- VS Code (basic)
+- Docker (basic)
+- Trello / Jira (basic)
 
-## Định hướng học tập
-- Nâng cao kỹ năng kiểm thử phần mềm
-- Tìm hiểu Automation Testing
-- Làm quen quy trình Agile/Scrum
+## Goals
+Currently seeking an opportunity as a Full Stack Developer Intern to improve my software development skills, gain hands-on experience, and learn professional development workflows through real-world projects.
