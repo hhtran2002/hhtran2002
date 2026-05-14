@@ -22,9 +22,9 @@ I’m an Information Systems student pursuing a career as a Full Stack Developer
 - MySQL / SQL Server 
 - GitHub 
 - Postman
-- VS Code (basic)
-- Docker (basic)
-- Trello / Jira (basic)
+- VS Code 
+- Docker 
+- Trello / Jira 
 
 ## Goals
 Currently seeking an opportunity as a Full Stack Developer Intern to improve my software development skills, gain hands-on experience, and learn professional development workflows through real-world projects.
